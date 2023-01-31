@@ -43,7 +43,7 @@ const theme = extendTheme({
             color: '#FFFFFF',
             fontWeight: '400',
             lineHeight: "50px",
-            fontSize: "30px",
+            fontSize: "33px",
         },
         s: {
             fontFace: `'Poppins', sans-serif`,

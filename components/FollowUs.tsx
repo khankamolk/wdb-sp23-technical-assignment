@@ -41,16 +41,16 @@ export default function FollowUs() {
                     <FaDiscord size="75px"/>
                 </SimpleGrid>
                 <VStack paddingTop="80px">
-                    <Text textStyle="h4" textColor="#000000" align='center'>
+                    <Text textStyle="h3" textColor="#000000" align='center'>
                         Give Us Feedback
                     </Text>
                     <HStack direction={'row'} paddingTop="20px">
                         <Button
                             onClick={() => setValue(value + 1)}
-                            width= '223px'
-                            height= '72px'
+                            width= '200px'
+                            height= '65px'
                             bg="#FF79B9"
-                            rounded={'15px'}
+                            rounded={'20px'}
                             color={'white'}
                             _hover={{ bg: '#cf4a84' }}>
                             <Text textStyle='h4'>+1</Text>

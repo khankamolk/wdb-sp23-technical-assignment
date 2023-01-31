@@ -10,7 +10,7 @@ import {
 export default function AboutUs() {
 return (
     <Flex bg="#FF79B9" w={'full'} h={'full'} alignItems={'center'} justifyContent={'center'}>
-        <VStack padding="50px" paddingBottom="140px">
+        <VStack padding="50px" paddingBottom="100px">
             <Text textStyle="h2">
             About Us
             </Text>
